@@ -1,3 +1,10 @@
+/**
+ * Libreria para usar Google Picker facilmente desde AngularJS
+ * @version v0.1.1
+ * @link https://github.com/MobileIA/mia-google-picker-angular
+ * @author Matias Camiletti <matiascamiletti@mobileia.com> 
+ * @license MIT License, http://www.opensource.org/licenses/MIT
+ */
 (function() {
     'use strict';
 
