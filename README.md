@@ -1,11 +1,4 @@
 # mia-google-picker-angular
-Modulo para implementar rapidamente un Google Picker.
-
-=====================
-
-[![Bower version](https://badge.fury.io/bo/mia-google-picker.svg)](http://badge.fury.io/bo/mia-google-picker)
-[![Build Status](https://travis-ci.org/softmonkeyjapan/angular-google-picker.svg?branch=master)](https://travis-ci.org/softmonkeyjapan/angular-google-picker)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 Directiva para AngularJS que interactua con Google Picker API:
 * [Google Picker API Overview](https://developers.google.com/picker/)
