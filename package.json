@@ -1,7 +1,7 @@
 {
     "name": "mia-google-picker",
-    "version": "1.0.0",
-    "keywords": ["util", "functional", "server", "client", "browser"],
+    "version": "0.1.0",
+    "keywords": ["google-picker","angularjs","mobileia"],
     "author": "matiascamiletti",
     "contributors": [],
     "dependencies": {}

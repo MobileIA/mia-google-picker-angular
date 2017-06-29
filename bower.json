@@ -1,12 +1,27 @@
 {
-    "name": "mia-google-picker",
-    "version": "1.0.0",
-    "main": "path/to/main.css",
-    "ignore": [
-        ".jshintrc", "**/*.txt"
-    ],
-    "dependencies": {
-    },
-    "devDependencies": {
-    }
+  "name": "mia-google-picker",
+  "version": "0.1.0",
+  "main": "src/mia-google-picker.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/MobileIA/mia-google-picker-angular",
+  "authors": [
+    "Matias Camiletti <matias.camiletti@gmail.com>"
+  ],
+  "description": "Libreria para usar Google Picker facilmente desde angularJs.",
+  "keywords": [
+    "google-picker",
+    "angularjs",
+    "mobileia"
+  ],
+  "license": "MIT"
 }
